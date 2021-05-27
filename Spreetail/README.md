@@ -13,7 +13,7 @@ stores/manage key/multi-value pairs in memory.
 
 Clone the repo using Git:
 
-`git clone https://github.com/thangchung/magazine-website.git`
+`git clone https://github.com/battaluri/MultiValueDictionaryWorkSample`
 
 ## Build and run
 ```
