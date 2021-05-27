@@ -74,7 +74,7 @@ Example: help
                  usage: version
 ```
 
-[All Commands with usage and samples](./Documentation/DetailedCommands.md)
+[All Commands with usage and samples](./Spreetail/Documentation/DetailedCommands.md)
 
 ### Is the key and value stored in the dictionary case sensitive?
 Yes the key and value stored are case sensitive.
