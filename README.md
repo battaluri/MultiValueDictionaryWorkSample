@@ -17,7 +17,7 @@ Clone the repo using Git:
 
 ## Build and run
 ```
-Navigate to the root folder downloaded/cloned and run below commands.
+Navigate to the Spreetail folder under root folder downloaded/cloned and run below commands.
 
 dotnet build
 dotnet run
